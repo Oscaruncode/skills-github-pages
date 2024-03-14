@@ -2,8 +2,6 @@
 title: Welcome to my blog
 ---
 
-# Welcome to My Blog
-
 Hello, and welcome to my blog! This space is dedicated to my journey in learning and practicing GitPages tutorials. As I navigate through the world of Git and GitHub, I'll be sharing my experiences, insights, and any tips I pick up along the way.
 
 ## About Me
